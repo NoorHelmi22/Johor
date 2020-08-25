@@ -10,7 +10,7 @@ Here is website template that made using Laravel and bootstrap. The theme that u
 
 Developed by Noor Helmi.
 
-©2020 Noor Helmi. All right reserved - Bootstrap
+©2020 Noor Helmi. All right reserved - Laravel &amp Bootstrap
 
 
 ## License
